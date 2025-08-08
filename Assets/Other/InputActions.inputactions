@@ -31,7 +31,7 @@
                     "path": "<Keyboard>/w",
                     "interactions": "",
                     "processors": "",
-                    "groups": "Keyboard",
+                    "groups": ";Keyboard",
                     "action": "Accelerate",
                     "isComposite": false,
                     "isPartOfComposite": false
@@ -50,7 +50,7 @@
                 {
                     "name": "",
                     "id": "02af286d-829a-4f92-b236-831bbe2f50e6",
-                    "path": "<Gamepad>/rightStick/x",
+                    "path": "<Gamepad>/leftStick/x",
                     "interactions": "",
                     "processors": "",
                     "groups": ";Gamepad",
